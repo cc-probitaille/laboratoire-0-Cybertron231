@@ -1,1 +1,13 @@
-// Vous devez compléter ce fichier
+@startuml dss-details-demarrerJeu
+skinparam style strictuml
+skinparam backgroundcolor transparent
+skinparam SequenceBoxBorderColor transparent
+skinparam participantpadding 10
+'skinparam handwritten true
+skinparam sequenceMessageAlign center
+box "DSS pour le scénario Redémarrer" #ffffff
+actor ":Joueur" as j
+participant ":Système" as s
+end box
+j -> s : redémarrerJeu()
+@enduml
