@@ -19,7 +19,7 @@ Nous avions fini par parler au professeur à propos de ceci, et il avait dit qu'
 
 Comme vu dans le document, je crois que nous n'avions pas réagi assez rapidement car on n'y avait pas mis de limites et on l'avait laissé faire jusqu'à beaucoup trop tard dans notre projet, au dernier moment, où il a fallu rapidement faire des corrections. Il avait aussi déjà fait des choses similaires (utilisation de ChatGPT) dans de plus anciennes remises, mais comme le code fonctionnait nous l'avions laissé le faire initialement car on était occupés avec d'autres aspects du projet, et on avait fais moins attention.
 
-J'avais eu ce coéquipier dans un autre cours après ceci, et j'ai implémenté beaucoup des notions mises dans le document, ce qui avait fait en sorte que je suis allé voir le professeur beaucoup plus tôt à propos de lui, car il n'avait pas changé. Malheureusement, le professeur n'a pas fait grand-chose, mais comme j'étais plus préparer j'ai tout de même était capable d'appliquer plus de pression sur lui pour rendre sont travail plus tôt.
+J'avais eu ce coéquipier dans un autre cours après ceci, et j'ai implémenté beaucoup des notions mises dans le document, ce qui avait fait en sorte que je suis allé voir le professeur beaucoup plus tôt à propos de lui, car il n'avait pas changé. Malheureusement, le professeur n'a pas fait grand-chose, mais comme j'étais plus préparer j'ai tout de même été capable d'appliquer plus de pression sur lui pour rendre sont travail plus tôt.
 
 
 ---
